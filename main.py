@@ -1,1 +1,1 @@
-print("Event integration")
+print("Event")
