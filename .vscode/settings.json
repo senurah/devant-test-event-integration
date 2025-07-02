@@ -1,0 +1,4 @@
+{
+  "ballerina.scope": "event-integration",
+  "ballerina.isBI": true
+}
